@@ -6,6 +6,7 @@
     <title>Post vs. Get</title>
 </head>
 <body>
+    <!-- Examples of post vs. get -->
     <!-- Get Example -->
     <!-- <form action="postVSGet.php" method="get">
         Password: <input type="password" name="password"> <br>
