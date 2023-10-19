@@ -26,7 +26,7 @@
             function userType($userIO) {
                 echo "Type whatever you want here: $userIO \n";
             }
-
+            
             sayHi();
             userType($userIO); // use the correct variable name here
 
