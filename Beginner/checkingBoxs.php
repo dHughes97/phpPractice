@@ -18,7 +18,7 @@
 
     <?php
         $fruits = $_POST["fruit"];
-        echo $fruits[1];
+        echo $fruits[2];
     ?>
 </body>
 </html>
